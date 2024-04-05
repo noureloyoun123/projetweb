@@ -1,0 +1,44 @@
+
+.Intro {
+        display:grid;
+        background-color: rgb(198, 47, 47);
+        color: white;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 5px;
+}
+#image {
+    display:block;
+    margin: 10px auto;
+    width: 1400px;
+    height: 500px;
+
+  }
+
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+.gray-block {
+    background-color: #eeeeeed9;
+    border-radius: 5px;
+    padding: 10px 50px 30px 0;
+    margin: 20px 0;
+}
+
+.gray-block h2 {
+    margin-top: 0;
+    color: rgb(160, 40, 40);
+}
+.gray-block img { 
+    margin-top: 0;
+    padding-right: 10px;
+    
+}
+h1 , h3 {
+    color: rgb(218, 30, 30);
+}
+p{
+    color: aliceblue;
+}
